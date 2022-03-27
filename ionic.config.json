@@ -1,0 +1,8 @@
+{
+  "name": "whatsap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "b6f10b60"
+}
